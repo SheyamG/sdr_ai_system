@@ -1,0 +1,14 @@
+Product Name: Premium Running Shoes
+Short Description: High-quality running shoes designed for comfort and performance.
+
+Product Name: Smart Fitness Tracker
+Short Description: A sleek wearable device that tracks your fitness metrics in real time.
+
+Product Name: Wireless Earbuds
+Short Description: Noise-canceling earbuds with superior sound quality and battery life.
+
+Product Name: Yoga Mat
+Short Description: Eco-friendly yoga mat with extra cushioning for comfort during workouts.
+
+Product Name: Insulated Water Bottle
+Short Description: Keeps drinks cold for 24 hours and hot for 12 hours, perfect for any adventure.
